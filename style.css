@@ -1,0 +1,15 @@
+ body{
+      background-color: beige;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    a{
+      font-size: large;
+      font-weight: bold;
+      margin: 1.2rem;
+    }
+    a:hover{
+      color: black;
+    }
